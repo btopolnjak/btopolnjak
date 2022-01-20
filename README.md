@@ -1,10 +1,16 @@
 ![banner-dark](./assets/banner-dark.png#gh-dark-mode-only)
 ![banner-light](./assets/banner-light.png#gh-light-mode-only)
 
+<div style="text-align: center">
+
 ## About me
+
+</div>
 
 I'm a Frontend Engineer and Graphic Designer passionate about developing Apps. Allways in pursuit for learning new technologies. As a former Graphic Designer, I'll always have a soft spot for design. The space between development and design is where I thrive. Love for coding was born when first Raspberry Pi was released, back in 2012. Since then, I enjoy developing new things using Raspberry Pi but also Arudino and IoT.
 When I'm not coding, you can find me exploring world on motorcycle or crushing PR's in the gym.<br><br>
+
+<div style="text-align: center">
 
 ## Tools & Technologies
 
@@ -21,6 +27,8 @@ When I'm not coding, you can find me exploring world on motorcycle or crushing P
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=555&logoColor=45B657&style=for-the-badge)
 ![arduino](https://img.shields.io/static/v1?logo=Arduino&label=&message=arduino&color=555&logoColor=45B657&style=for-the-badge)<br><br>
 
+
+
 ## Contact
 Find out more about me & feel free to connect with me here:<br>
 
@@ -33,3 +41,5 @@ Find out more about me & feel free to connect with me here:<br>
 <a href="mailto:boris.topolnjak@gmail.com">
 <img src=https://img.shields.io/static/v1?logo=Mail.Ru&label=&message=e-mail&color=45B657&logoColor=FFF&style=for-the-badge alt=mail/>
 </a>
+
+</div>
