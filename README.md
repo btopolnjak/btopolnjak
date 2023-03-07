@@ -3,8 +3,7 @@
 
 ## About me
 
-Frontend Engineer and Graphic Designer passionate about developing Apps. Allways in pursuit for learning new technologies. As a former Graphic Designer, I'll always have a soft spot for design. The space between development and design is where I thrive. Love for coding was born when first Raspberry Pi was released, back in 2012. Since then, I enjoy developing new things using Raspberry Pi but also Arudino and IoT.
-When I'm not coding, you can find me exploring world on motorcycle or crushing PR's in the gym.<br><br>
+Frontend Engineer and Graphic Designer passionate about developing Apps. Always in pursuit for learning new technologies. As a former Graphic Designer, I'll always have a soft spot for design. The space between development and design is where I thrive. Love for coding was born when the first Raspberry Pi was released, back in 2012. Since then, I enjoy developing new things using Raspberry Pi, but also Arduino and IoT. When I'm not coding, you can find me exploring the world on a motorcycle or crushing PR's in the gym.<br><br>
 
 ## Tools & Technologies
 
