@@ -10,6 +10,7 @@ Frontend Engineer and Graphic Designer passionate about developing Apps. Always 
 ![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html&color=555&logoColor=45B657&style=for-the-badge)
 ![css3](https://img.shields.io/static/v1?logo=css3&label=&message=css&color=555&logoColor=45B657&style=for-the-badge)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=555&logoColor=45B657&style=for-the-badge)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=555&logoColor=45B657&style=for-the-badge)
 ![react](https://img.shields.io/static/v1?logo=react&label=&message=react&color=555&logoColor=45B657&style=for-the-badge)<br>
 ![nodejs](https://img.shields.io/static/v1?logo=Node.js&label=&message=nodejs&color=555&logoColor=45B657&style=for-the-badge)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=555&logoColor=45B657&style=for-the-badge)
